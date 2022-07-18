@@ -1,8 +1,5 @@
-package com.epam.pageobject;/*
-@author
-Marat Lagun
-created on 3/25/22   
-*/
+package com.epam.pageobject;
+
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

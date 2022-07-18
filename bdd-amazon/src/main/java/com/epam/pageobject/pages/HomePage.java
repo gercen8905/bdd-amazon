@@ -1,9 +1,5 @@
 package com.epam.pageobject.pages;
-/* 
-@author
-Marat Lagun
-created on 3/2/22   
-*/
+
 
 import com.epam.pageobject.BasePage;
 import org.openqa.selenium.By;

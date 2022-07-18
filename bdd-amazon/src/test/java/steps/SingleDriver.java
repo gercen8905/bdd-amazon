@@ -1,8 +1,5 @@
-package steps;/*
-@author
-Marat Lagun
-created on 3/25/22   
-*/
+package steps;
+
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
@@ -13,7 +10,6 @@ public class SingleDriver {
     private static SingleDriver instanceOfDriver = null;
 
     private SingleDriver() {
-
     }
 
     public WebDriver openChrome() {

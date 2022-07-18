@@ -1,9 +1,4 @@
 package steps;
-/*
-@author
-Marat Lagun
-created on 3/25/22
-*/
 
 import com.epam.pageobject.pages.HomePage;
 import com.epam.pageobject.pages.SearchResultPage;
